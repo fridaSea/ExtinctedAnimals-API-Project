@@ -16,4 +16,4 @@ Styling was done with CSS and Bootstrap Components.
 
 API see [here](https://cheba-apis.vercel.app/?ref=freepublicapis.com).
 
-Live preview [here](https://cheba-apis.vercel.app/?ref=freepublicapis.com).
+Live preview [here](https://explore-extinct-species.netlify.app/pages/specieslist/specieslist).
