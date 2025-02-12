@@ -105,7 +105,7 @@ const displayAnimals = (animals) => {
       "href",
       "/pages/animal/animal.html#" + animals[i].commonName // alles was hinter dem # kommt, ist dem browser egal. es ist ein anker.
     );
-    cardButton.innerText = "Go somewhere";
+    cardButton.innerText = "Find out more";
 
     // order
     cardContainer.appendChild(cardImage);
